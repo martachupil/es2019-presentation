@@ -1,9 +1,3 @@
-<img align="right"
-     title="ES2019"
-     height="300"
-     width="300"
-     src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png">
-     
 # ES10/ES2019 and future of JavaScript
 
 > Many of us know that there is a standard procedure for Javascript’s latest releases and a committee behind that.
